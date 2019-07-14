@@ -1,0 +1,1062 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="89b8f800-c02e-44bc-97c9-b24c577f0821" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="DesignPattern" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="FxmlFile" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>pps</find>
+      <find>ps</find>
+      <find>act</find>
+      <find>type</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/test/Mom.java" />
+        <option value="$PROJECT_DIR$/src/test/Home.java" />
+        <option value="$PROJECT_DIR$/src/test/test.java" />
+        <option value="$PROJECT_DIR$/src/reflex/Car.java" />
+        <option value="$PROJECT_DIR$/src/reflex/Audi.java" />
+        <option value="$PROJECT_DIR$/src/reflex/Client.java" />
+        <option value="$PROJECT_DIR$/src/proxy/log/CourseServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/proxy/log/Course.java" />
+        <option value="$PROJECT_DIR$/src/proxy/cs/RemoteInvocationHandler.java" />
+        <option value="$PROJECT_DIR$/src/reflect/Client.java" />
+        <option value="$PROJECT_DIR$/src/proxy/log/LogInvacationHandler.java" />
+        <option value="$PROJECT_DIR$/src/proxy/log/LogInvocationHandler.java" />
+        <option value="$PROJECT_DIR$/src/interpreter/bool/Context.java" />
+        <option value="$PROJECT_DIR$/src/interpreter/test/And.java" />
+        <option value="$PROJECT_DIR$/src/interpreter/test/Constant.java" />
+        <option value="$PROJECT_DIR$/src/interpreter/test/Client.java" />
+        <option value="$PROJECT_DIR$/src/visitor/MotherLand.java" />
+        <option value="$PROJECT_DIR$/src/memorandum/test/test.java" />
+        <option value="$PROJECT_DIR$/src/proxy/log/Client.java" />
+        <option value="$PROJECT_DIR$/src/memorandum/test/IMemento.java" />
+        <option value="$PROJECT_DIR$/src/memorandum/test/Album.java" />
+        <option value="$PROJECT_DIR$/src/memorandum/test/PhotoState.java" />
+        <option value="$PROJECT_DIR$/src/memorandum/test/NiuNiu.java" />
+        <option value="$PROJECT_DIR$/src/interpreter/test/Expression.java" />
+        <option value="$PROJECT_DIR$/src/interpreter/test/Context.java" />
+        <option value="$PROJECT_DIR$/src/interpreter/test/Terminal.java" />
+        <option value="$PROJECT_DIR$/src/interpreter/test/Plus.java" />
+        <option value="$PROJECT_DIR$/src/interpreter/test/test.java" />
+        <option value="$PROJECT_DIR$/src/interpreter/arithmetic/TerminalExpression.java" />
+        <option value="$PROJECT_DIR$/src/proxy/ICourseService.java" />
+        <option value="$PROJECT_DIR$/src/proxy/CourseService.java" />
+        <option value="$PROJECT_DIR$/src/proxy/remote/RemoteInvocationHandler.java" />
+        <option value="$PROJECT_DIR$/src/proxy/remote/ProxyClient.java" />
+        <option value="$PROJECT_DIR$/src/proxy/remote/client/ProxyClient.java" />
+        <option value="$PROJECT_DIR$/src/proxy/remote/RemoteServer.java" />
+        <option value="$PROJECT_DIR$/src/proxy/remote/ObjectPool.java" />
+        <option value="$PROJECT_DIR$/src/proxy/remote/LogInvocationHandler.java" />
+        <option value="$PROJECT_DIR$/src/proxy/remote/server/LogInvocationHandler.java" />
+        <option value="$PROJECT_DIR$/src/proxy/remote/server/ObjectPool.java" />
+        <option value="$PROJECT_DIR$/src/proxy/remote/Call.java" />
+        <option value="$PROJECT_DIR$/src/state/robot/FirstGearState.java" />
+        <option value="$PROJECT_DIR$/src/state/robot/ForwardState.java" />
+        <option value="$PROJECT_DIR$/src/state/robot/MovementState.java" />
+        <option value="$PROJECT_DIR$/src/state/robot/MyRunnable.java" />
+        <option value="$PROJECT_DIR$/src/state/robot/ReverseState.java" />
+        <option value="$PROJECT_DIR$/src/state/robot/Robot.java" />
+        <option value="$PROJECT_DIR$/src/state/robot/SecondGearState.java" />
+        <option value="$PROJECT_DIR$/src/state/robot/StartState.java" />
+        <option value="$PROJECT_DIR$/src/state/robot/State.java" />
+        <option value="$PROJECT_DIR$/src/state/robot/StopState.java" />
+        <option value="$PROJECT_DIR$/src/state/Client.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="385" />
+    <option name="y" value="85" />
+    <option name="width" value="940" />
+    <option name="height" value="1090" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="DesignPattern" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DesignPattern" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DesignPattern" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DesignPattern" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1563096370544" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/lib/junit-4.10.jar!/" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="command" />
+      <recent name="factory.abstractFactory" />
+      <recent name="factory" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Java\IntelliJ\DesignPattern\src\factory\abstractFactory" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.test.test (1)">
+    <configuration name="Client (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="proxy.log.Client" />
+      <module name="DesignPattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="proxy.log.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="proxy.log.Client" />
+      <module name="DesignPattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="proxy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="memorandum.Client" />
+      <module name="DesignPattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="memorandum.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Client.test (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="DesignPattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="interpreter.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="interpreter.test" />
+      <option name="MAIN_CLASS_NAME" value="interpreter.test.Client" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test.test (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="DesignPattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="interpreter.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="interpreter.test" />
+      <option name="MAIN_CLASS_NAME" value="interpreter.test.test" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="DesignPattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="memorandum.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="memorandum.test" />
+      <option name="MAIN_CLASS_NAME" value="memorandum.test.test" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.test.test (1)" />
+        <item itemvalue="JUnit.test.test" />
+        <item itemvalue="JUnit.Client.test (1)" />
+        <item itemvalue="Application.Client" />
+        <item itemvalue="Application.Client (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="89b8f800-c02e-44bc-97c9-b24c577f0821" name="Default Changelist" comment="" />
+      <created>1557836278836</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1557836278836</updated>
+      <workItem from="1557836280801" duration="6448000" />
+      <workItem from="1557910074232" duration="152000" />
+      <workItem from="1558168209089" duration="4785000" />
+      <workItem from="1558239842404" duration="14000" />
+      <workItem from="1558839626865" duration="1287000" />
+      <workItem from="1558850782587" duration="116000" />
+      <workItem from="1558850971757" duration="76000" />
+      <workItem from="1560043213524" duration="1588000" />
+      <workItem from="1560058550077" duration="100000" />
+      <workItem from="1560087646876" duration="5302000" />
+      <workItem from="1560222533957" duration="6782000" />
+      <workItem from="1560236499288" duration="667000" />
+      <workItem from="1560257881732" duration="3983000" />
+      <workItem from="1560308520360" duration="44000" />
+      <workItem from="1561293505811" duration="5859000" />
+      <workItem from="1561382443263" duration="636000" />
+      <workItem from="1561387659795" duration="3031000" />
+      <workItem from="1561426030067" duration="2526000" />
+      <workItem from="1561452679932" duration="12135000" />
+      <workItem from="1561516244707" duration="255000" />
+      <workItem from="1561518207440" duration="8127000" />
+      <workItem from="1561541716984" duration="478000" />
+      <workItem from="1561559763166" duration="1106000" />
+      <workItem from="1561562191503" duration="2085000" />
+      <workItem from="1561623627253" duration="15714000" />
+      <workItem from="1561773271458" duration="31000" />
+      <workItem from="1561787490673" duration="54000" />
+      <workItem from="1561787550415" duration="8906000" />
+      <workItem from="1561808081576" duration="597000" />
+      <workItem from="1562214272613" duration="2266000" />
+      <workItem from="1562222924609" duration="7066000" />
+      <workItem from="1562246926566" duration="74000" />
+      <workItem from="1562291729041" duration="667000" />
+      <workItem from="1562297263737" duration="13286000" />
+      <workItem from="1562318905487" duration="6300000" />
+      <workItem from="1562404571549" duration="6984000" />
+      <workItem from="1562464429162" duration="4131000" />
+      <workItem from="1562483125862" duration="1203000" />
+      <workItem from="1562484707086" duration="17000" />
+      <workItem from="1563095029135" duration="51000" />
+      <workItem from="1563095280148" duration="1143000" />
+      <workItem from="1563096509253" duration="428000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Client_test2 - 2019.07.04 at 15h 35m 22s.xml">
+      <configuration name="Client.test2" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Client_test2 - 2019.07.04 at 15h 35m 36s.xml">
+      <configuration name="Client.test2" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Client_test_(1) - 2019.07.05 at 13h 46m 06s.xml">
+      <configuration name="Client.test (1)" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Client_test_(1) - 2019.07.05 at 13h 46m 30s.xml">
+      <configuration name="Client.test (1)" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Client_test_(1) - 2019.07.05 at 13h 48m 24s.xml">
+      <configuration name="Client.test (1)" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="test_test - 2019.07.05 at 14h 58m 52s.xml">
+      <configuration name="test.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="test_test - 2019.07.05 at 20h 27m 03s.xml">
+      <configuration name="test.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="test_test - 2019.07.05 at 20h 27m 33s.xml">
+      <configuration name="test.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="test_test - 2019.07.05 at 20h 27m 47s.xml">
+      <configuration name="test.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="test_test_(1) - 2019.07.06 at 23h 42m 17s.xml">
+      <configuration name="test.test (1)" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="136500000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1486" height="878" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.3828648" visible="true" weight="0.26610646" />
+      <window_info x="534" y="202" width="405" height="460" id="Structure" order="1" sideWeight="0.6171352" side_tool="true" weight="0.283415" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" sideWeight="0.6171352" side_tool="true" weight="0.283415" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32931727" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.22757697" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.32262382" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32931727" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" weight="0.32931727" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.32931727" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.24965034" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Database" order="4" weight="0.25034964" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Maven" order="6" weight="0.23846154" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/interpreter/test/Terminal.java" />
+    <entry file="file://$PROJECT_DIR$/src/interpreter/test/Plus.java" />
+    <entry file="file://$PROJECT_DIR$/src/interpreter/test/Context.java" />
+    <entry file="file://$PROJECT_DIR$/src/interpreter/bool/Constant.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="13" column="30" lean-forward="true" selection-start-line="13" selection-start-column="30" selection-end-line="13" selection-end-column="30" />
+          <folding>
+            <element signature="e#132#133#0" expanded="true" />
+            <element signature="e#166#167#0" expanded="true" />
+            <element signature="e#224#225#0" expanded="true" />
+            <element signature="e#252#253#0" expanded="true" />
+            <element signature="e#350#351#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/interpreter/test/test.java" />
+    <entry file="file://$PROJECT_DIR$/src/decorator/Milk.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="19" column="1" lean-forward="true" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/objectPool/connectionPool/DBConnection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/objectPool/connectionPool/ConnectionPool.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="836">
+          <caret line="39" column="5" lean-forward="true" selection-start-line="39" selection-start-column="5" selection-end-line="39" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/objectPool/singleton/Singleton.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" column="17" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/memorandum/AlbumCareTaker.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/interpreter/arithmetic/PlusOperation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="15" column="1" lean-forward="true" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/interpreter/arithmetic/TerminalExpression.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="9" column="13" lean-forward="true" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+          <folding>
+            <element signature="e#267#268#0" expanded="true" />
+            <element signature="e#310#311#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/interpreter/arithmetic/Expression.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/interpreter/arithmetic/MinusOperation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="5" lean-forward="true" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+          <folding>
+            <element signature="e#302#303#0" expanded="true" />
+            <element signature="e#377#378#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/visitor/MotherLand.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/visitor/ShaoGong.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/visitor/Client.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="30" lean-forward="true" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/memorandum/Client.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="14" lean-forward="true" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/reflect/Client.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="572">
+          <caret line="29" column="22" selection-start-line="29" selection-start-column="22" selection-end-line="29" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/interpreter/arithmetic/Client.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/command/Client.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/visitor">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>visitor</OriginalElement>
+          <nodes>
+            <node x="0.0" y="149.0">visitor.ChaiLang</node>
+            <node x="348.75" y="317.0">visitor.ElementVisitor</node>
+            <node x="0.0" y="420.5">visitor.ShaoGong</node>
+            <node x="666.0" y="420.5">visitor.XiaoHuo</node>
+            <node x="269.0" y="149.0">visitor.PengYou</node>
+            <node x="201.00000000000003" y="420.0">visitor.MotherLand</node>
+            <node x="134.5" y="0.0">visitor.Visitor</node>
+            <node x="0.0" y="565.0">visitor.Client</node>
+            <node x="465.0" y="420.5">visitor.GuNiang</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="visitor.GuNiang" target="visitor.ElementVisitor">
+              <point x="0.0" y="-49.5" />
+              <point x="555.5" y="400.0" />
+              <point x="461.875" y="400.0" />
+              <point x="22.625" y="26.5" />
+            </edge>
+            <edge source="visitor.XiaoHuo" target="visitor.ElementVisitor">
+              <point x="0.0" y="-49.5" />
+              <point x="756.5" y="390.0" />
+              <point x="507.125" y="390.0" />
+              <point x="67.875" y="26.5" />
+            </edge>
+            <edge source="visitor.ShaoGong" target="visitor.ElementVisitor">
+              <point x="0.0" y="-49.5" />
+              <point x="90.5" y="390.0" />
+              <point x="371.375" y="390.0" />
+              <point x="-67.875" y="26.5" />
+            </edge>
+            <edge source="visitor.PengYou" target="visitor.Visitor">
+              <point x="0.0" y="-61.5" />
+              <point x="393.5" y="124.0" />
+              <point x="321.25" y="124.0" />
+              <point x="62.25" y="49.5" />
+            </edge>
+            <edge source="visitor.ChaiLang" target="visitor.Visitor">
+              <point x="0.0" y="-61.5" />
+              <point x="124.5" y="124.0" />
+              <point x="196.75" y="124.0" />
+              <point x="-62.25" y="49.5" />
+            </edge>
+            <edge source="visitor.MotherLand" target="visitor.ElementVisitor">
+              <point x="0.0" y="-50.0" />
+              <point x="323.0" y="400.0" />
+              <point x="416.625" y="400.0" />
+              <point x="-22.625" y="26.5" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="129.0" y="202.0" />
+          <SelectedNodes>
+            <node>visitor.Client</node>
+          </SelectedNodes>
+          <Categories>
+            <Category>Fields</Category>
+            <Category>Constructors</Category>
+            <Category>Methods</Category>
+            <Category>Properties</Category>
+            <Category>Inner Classes</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/memorandum">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>memorandum</OriginalElement>
+          <nodes>
+            <node x="122.75" y="197.0">memorandum.NiuNiu.PhotoMemento</node>
+            <node x="0.0" y="319.0">memorandum.AlbumCareTaker</node>
+            <node x="0.0" y="488.0">memorandum.Client</node>
+            <node x="293.0" y="58.5">memorandum.IMemento</node>
+            <node x="0.0" y="0.0">memorandum.NiuNiu</node>
+            <node x="304.0" y="319.0">memorandum.PhotoState</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="memorandum.NiuNiu.PhotoMemento" target="memorandum.IMemento">
+              <point x="59.5" y="-38.5" />
+              <point x="301.25" y="172.0" />
+              <point x="347.0" y="172.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="memorandum.NiuNiu.PhotoMemento" target="memorandum.NiuNiu">
+              <point x="-59.5" y="-38.5" />
+              <point x="182.25" y="172.0" />
+              <point x="136.5" y="172.0" />
+              <point x="0.0" y="73.5" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="-70.0" y="163.0" />
+          <SelectedNodes>
+            <node>memorandum.Client</node>
+          </SelectedNodes>
+          <Categories>
+            <Category>Fields</Category>
+            <Category>Constructors</Category>
+            <Category>Methods</Category>
+            <Category>Properties</Category>
+            <Category>Inner Classes</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/interpreter.arithmetic">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>interpreter.arithmetic</OriginalElement>
+          <nodes>
+            <node x="0.0" y="103.0">interpreter.arithmetic.PlusOperation</node>
+            <node x="0.0" y="272.0">interpreter.arithmetic.Context</node>
+            <node x="561.0" y="103.0">interpreter.arithmetic.MinusOperation</node>
+            <node x="313.0" y="114.5">interpreter.arithmetic.TerminalExpression</node>
+            <node x="324.5" y="0.0">interpreter.arithmetic.Expression</node>
+            <node x="297.0" y="272.0">interpreter.arithmetic.Client</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="interpreter.arithmetic.PlusOperation" target="interpreter.arithmetic.Expression">
+              <point x="0.0" y="-62.0" />
+              <point x="146.5" y="78.0" />
+              <point x="358.6666666666667" y="78.0" />
+              <point x="-68.33333333333331" y="26.5" />
+            </edge>
+            <edge source="interpreter.arithmetic.MinusOperation" target="interpreter.arithmetic.Expression">
+              <point x="0.0" y="-62.0" />
+              <point x="713.5" y="78.0" />
+              <point x="495.3333333333333" y="78.0" />
+              <point x="68.33333333333331" y="26.5" />
+            </edge>
+            <edge source="interpreter.arithmetic.TerminalExpression" target="interpreter.arithmetic.Expression">
+              <point x="0.0" y="-50.5" />
+              <point x="0.0" y="26.5" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="138.0" y="79.0" />
+          <SelectedNodes>
+            <node>interpreter.arithmetic.Client</node>
+          </SelectedNodes>
+          <Categories>
+            <Category>Fields</Category>
+            <Category>Constructors</Category>
+            <Category>Methods</Category>
+            <Category>Properties</Category>
+            <Category>Inner Classes</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/command">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>command</OriginalElement>
+          <nodes>
+            <node x="333.0" y="249.0">command.Projector</node>
+            <node x="0.0" y="417.0">command.Client</node>
+            <node x="0.0" y="103.0">command.ProjectorOnCommand</node>
+            <node x="285.0" y="103.0">command.ProjectorOffCommand</node>
+            <node x="0.0" y="249.0">command.ControlPanel</node>
+            <node x="199.75" y="0.0">command.Command</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="command.ProjectorOffCommand" target="command.Command">
+              <point x="0.0" y="-50.5" />
+              <point x="418.0" y="78.0" />
+              <point x="313.0" y="78.0" />
+              <point x="37.75" y="26.5" />
+            </edge>
+            <edge source="command.ProjectorOnCommand" target="command.Command">
+              <point x="0.0" y="-50.5" />
+              <point x="132.5" y="78.0" />
+              <point x="237.5" y="78.0" />
+              <point x="-37.75" y="26.5" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="276.0" y="235.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Fields</Category>
+            <Category>Constructors</Category>
+            <Category>Methods</Category>
+            <Category>Properties</Category>
+            <Category>Inner Classes</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/proxy/ICourseService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/proxy/CourseService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" column="5" lean-forward="true" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+          <folding>
+            <element signature="e#125#126#0" expanded="true" />
+            <element signature="e#171#172#0" expanded="true" />
+            <element signature="e#349#350#0" expanded="true" />
+            <element signature="e#420#421#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/proxy/Course.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/proxy/remote/server/ObjectPool.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="638">
+          <caret line="35" column="18" selection-start-line="35" selection-start-column="18" selection-end-line="35" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/proxy/remote/server/RemoteServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="484">
+          <caret line="33" column="45" lean-forward="true" selection-start-line="33" selection-start-column="45" selection-end-line="33" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/proxy/remote/server/LogInvocationHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/proxy/remote/client/RemoteInvocationHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="15" column="31" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/proxy/remote/client/ProxyClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/proxy/remote/Call.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="34" selection-start-line="8" selection-start-column="34" selection-end-line="8" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/state/robot/FirstGearState.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/state/robot/ForwardState.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="20" selection-start-column="20" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/state/robot/MovementState.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="20" selection-start-column="20" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/state/robot/ReverseState.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="20" selection-start-column="20" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/state/robot/Robot.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="20" selection-start-column="20" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/state/robot/SecondGearState.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="20" selection-start-column="20" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/state/robot/StartState.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="20" selection-start-column="20" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/state/robot/State.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="20" selection-start-column="20" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/state/robot/StopState.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/state/Client.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="257">
+          <caret line="12" column="23" lean-forward="true" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/state/robot/MyRunnable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="20" selection-start-column="20" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/decorator/decoratorTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/decorator/CondimentDecorator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/decorator/Cappuccino.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/decorator/Beverage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/decorator">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>decorator</OriginalElement>
+          <nodes>
+            <node x="" y="">decorator.Beverage</node>
+            <node x="" y="">decorator.CondimentDecorator</node>
+            <node x="" y="">decorator.Latte</node>
+            <node x="" y="">decorator.Milk</node>
+            <node x="" y="">decorator.decoratorTest</node>
+            <node x="" y="">decorator.Cappuccino</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="203.0" y="133.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/strategy">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>strategy</OriginalElement>
+          <nodes>
+            <node x="" y="">strategy.Arrow</node>
+            <node x="" y="">strategy.Client</node>
+            <node x="" y="">strategy.Knight</node>
+            <node x="" y="">strategy.Princess</node>
+            <node x="" y="">strategy.Role</node>
+            <node x="" y="">strategy.Weapon</node>
+            <node x="" y="">strategy.Sword</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="158.0" y="133.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>DesignPattern</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
